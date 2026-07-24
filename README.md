@@ -25,6 +25,12 @@ This repository documents my journey in designing connected systems, cloud archi
 
 The objective is to understand how embedded devices communicate securely with cloud infrastructures while ensuring scalability, reliability and maintainability.
 
+<div align="center">
+
+![IoT Architecture Overview](media/Arch_Couche_IoT.png)
+
+</div>
+
 ---
 
 # 🎯 Objectives
